@@ -1,9 +1,11 @@
 import React from 'react'
+import MeltsDetails from '../Components/MeltsDetails'
 
 function Melts() {
   return (
     <div>
-      <h1>Melts Page</h1>
+     
+      <MeltsDetails />
     </div>
   )
 }
